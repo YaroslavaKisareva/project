@@ -20,7 +20,7 @@
     text-transform: uppercase;
     position: absolute;
     left: 420px;
-    top: 5px;
+    top: 17px;
     width: 199.392px;
     height: 14px;
 }
@@ -35,14 +35,14 @@
     color: white;
     position: absolute;
     top: 17px;
-    left: 1204px;
+    left: 1004px;
 }
 .basket
 {
     color: white;
     position: absolute;
     top: 17px;
-    left: 1404px;
+    left: 1160px;
 }
 
 .rectangle
